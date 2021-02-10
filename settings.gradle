@@ -1,0 +1,3 @@
+include ':demosank'
+include ':app'
+rootProject.name = "SanketP"
